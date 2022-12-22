@@ -4,7 +4,7 @@ My first work in data analytics
 
 <h3 align="center">Yandex Music 🇷🇺</h3>
   
-# This is not a big data analytics project consisting of 4 parts:
+# This is small data analytics project consisting of 4 parts:
 
 # 1) Data Review 
 # 2) Data Preprocessing 
