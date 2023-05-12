@@ -20,3 +20,33 @@
     Python, Pandas, NumPy, Matplotlib, Seaborn.
 5. **Вклад:**
     Этот проект позволит лучше понять поведение пользователей Яндекс Музыки в Москве и Петербурге и сделать более обоснованные выводы о различиях между двумя городами.
+
+
+<h3 align="center"> Project "Comparison of Yandex Music Users in Moscow and St. Petersburg" </h3>
+
+1. **Project Description:**
+
+The project aims to analyze the behavior of Yandex Music users in Moscow and St. Petersburg in order to examine myths and stereotypes. The project utilizes data on music listening habits to compare activity levels and genre preferences.
+
+2. **Project Objectives:**
+
+- Verify the relationship between user activity and the day of the week in each city.
+- Compare genre preferences between Moscow and St. Petersburg.
+- Confirm or debunk myths about genre preferences in each city.
+3. **Methodology:**
+
+- Obtain data on Yandex Music user listening habits in both cities.
+- Analyze activity levels: Compare overall activity on different days of the week.
+- Genre analysis: Explore user preferences for different music genres.
+- Visualize the results for clear comparison.
+4. Expected Results:
+
+- Identify differences in user activity and genre preferences between Moscow and St. Petersburg. Validate myths and stereotypes based on actual data.
+
+5. Tools Used:
+
+- Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+6. Contribution:
+
+- This project will provide a better understanding of Yandex Music user behavior in Moscow and St. Petersburg, leading to informed conclusions about the differences between the two cities.
