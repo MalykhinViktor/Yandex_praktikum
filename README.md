@@ -35,38 +35,43 @@
     - Фильмы с высоким рейтингом пользуются популярностью.
     - В прокате преобладают фильмы из США, России, Франции, Великобритании и СССР.
     - Фильмы из США, России, Великобритании, Франции и КНР имеют высокие кассовые сборы.
-<h3 align="center">  Project: Real Estate Market Analysis </h3>
+
+<h3 align="center">Project "Research on the Russian Film Distribution Market"</h3>
+
 
 **Project Description:**
 
-    In this project, we work with data from the Yandex Realty service, which contains information about the sale of apartments in St. Petersburg and neighboring areas. Our goal is to preprocess the data and analyze them to discover interesting patterns and dependencies in the real estate market. The data include user-provided information (such as apartment area, floor, and number of balconies) and cartographic data (distance to the city center, airport, nearest park, and other amenities).
+    Research on the Russian film distribution market, taking into account government support for films and their appeal to audiences. Analysis of data on distribution certificates, box office revenues, and government funding, as well as information from Kinopoisk.
+
 
 **Project Goals:**
 
-    - Study the characteristics and dependencies in the real estate market based on Yandex Realty data.
-    - Preprocess the data and analyze the key parameters of real estate properties.
-    - Explore the speed of apartment sales and determine the typical selling time.
-    - Investigate the impact of various factors on property prices.
-    - Analyze the relationship between price and key property parameters.
-    - Determine the average price per square meter in areas with the highest number of listings.
-    - Examine the influence of distance to the city center on property prices in St. Petersburg.
+    - Consolidate and merge files containing data on distribution certificates and theatrical distribution in Russian cinemas.
+    - Preprocess the data, including data type validation, handling missing values and duplicates, and correcting problematic values.
+    - Conduct exploratory data analysis to identify trends in the film distribution market, analyze distribution dynamics over the years, and examine the impact of age restrictions on film revenues.
+    - Investigate films that received government support to uncover interesting patterns, including funding volumes and their profitability.
+
 **Methodology:**
 
-    - Familiarize yourself with the data.
-    - Data preprocessing.
-    - Analysis of key parameters of real estate properties.
-    - Study the speed of apartment sales.
-    - Analysis of factors influencing property prices.
-    - Calculation of average price per square meter.
-    - Analysis of the relationship between distance to the city center and property prices.
-**Expected Results:**
+   - Data consolidation: Merge files containing data on distribution certificates and theatrical distribution in cinemas.
+    - Data preprocessing: Validate and transform data types, handle missing values, remove duplicates, and correct problematic values.
+    - Data analysis: Study the number of films released in distribution each year and the proportion of films with distribution information. Analyze the dynamics of distribution and box office revenues over the years. Explore the impact of age restrictions on film revenues.
+    - Analysis of films with government support: Analyze the allocation of funds for film support and the profitability of such films. Study the ratings of films that received government support.
 
-    - Understanding of the data and its structure.
-    - Clean and preprocessed data for analysis.
-    - Insights into property parameters and their relationships.
-    - Evaluation of selling time and identification of fast and slow transactions.
-    - Identification of key factors influencing property prices.
-    - Average price per square meter in areas with the highest number of listings.
-    - Analysis of the relationship between price and distance to the city center.
+**Expected Results:**
+    - The analysis of the data is expected to provide information on the distribution of films by year, box office revenues, popular genres, successful films and directors, as well as the influence of various factors on the success of films in the Russian film distribution market.
+
 **Tools:**
+
 Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+**Conclusions:**
+
+    - The Russian film distribution market is showing growth, but the share of films from the global distribution remains low.
+    - The age rating of a film affects its box office revenues.
+    - Popular genres in the Russian distribution market are drama, comedy, action, horror, and animation.
+    - Some films achieve high box office revenues.
+    - Films with high ratings are popular among audiences.
+    - The distribution market is dominated by films from the USA, Russia, France, the UK, and the USSR.
+    - Films from the USA, Russia, the UK, France, and China have high box office revenues.
+    
