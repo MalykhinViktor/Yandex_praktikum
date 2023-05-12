@@ -32,7 +32,8 @@
 <h3 align="center">  Project: Real Estate Market Analysis </h3>
 
 **Project Description:**
-In this project, we work with data from the Yandex Realty service, which contains information about the sale of apartments in St. Petersburg and neighboring areas. Our goal is to preprocess the data and analyze them to discover interesting patterns and dependencies in the real estate market. The data include user-provided information (such as apartment area, floor, and number of balconies) and cartographic data (distance to the city center, airport, nearest park, and other amenities).
+
+    In this project, we work with data from the Yandex Realty service, which contains information about the sale of apartments in St. Petersburg and neighboring areas. Our goal is to preprocess the data and analyze them to discover interesting patterns and dependencies in the real estate market. The data include user-provided information (such as apartment area, floor, and number of balconies) and cartographic data (distance to the city center, airport, nearest park, and other amenities).
 
 **Project Goals:**
 
