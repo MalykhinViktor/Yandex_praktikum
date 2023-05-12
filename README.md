@@ -39,14 +39,14 @@ The project aims to analyze the behavior of Yandex Music users in Moscow and St.
 - Analyze activity levels: Compare overall activity on different days of the week.
 - Genre analysis: Explore user preferences for different music genres.
 - Visualize the results for clear comparison.
-4. Expected Results:
+4. **Expected Results:**
 
 - Identify differences in user activity and genre preferences between Moscow and St. Petersburg. Validate myths and stereotypes based on actual data.
 
-5. Tools Used:
+5. **Tools Used:**
 
 - Python, Pandas, NumPy, Matplotlib, Seaborn.
 
-6. Contribution:
+6. **Contribution:**
 
 - This project will provide a better understanding of Yandex Music user behavior in Moscow and St. Petersburg, leading to informed conclusions about the differences between the two cities.
