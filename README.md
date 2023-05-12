@@ -22,7 +22,7 @@
  - Полученные результаты будут использованы для построения модели кредитного скоринга и принятия более надежных решений о выдаче кредитов.
 
 
-<h3 align="center"> Project "Borrower Reliability Study" </h3>
+<h3 align="center"> Project: "Borrower Reliability Study" </h3>
 
 1. **Description:**
  This project was conducted for the credit department of a bank to investigate the impact of a client's marital status and number of children on their timely loan repayment. The project utilizes data provided by the bank, which includes statistics on client creditworthiness. The research findings will be used in the development of a credit scoring model, aiding in making more informed decisions regarding loan approvals.
