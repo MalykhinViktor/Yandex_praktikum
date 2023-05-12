@@ -1,18 +1,41 @@
-1. **Проект** "Сравнение пользователей Яндекс Музыки в Москве и Петербурге"
-2. **Описание проекта:**
-    Анализ поведения пользователей Яндекс Музыки в Москве и Петербурге для проверки мифов и стереотипов. Используем данные о прослушиваниях для сравнения активности и предпочтений в музыкальных жанрах.
-3. **Цели проекта:**
-    -	Проверить зависимость активности пользователей от дня недели в каждом городе.
-    -	Сравнить предпочтения в музыкальных жанрах между Москвой и Петербургом.
-    - 	Подтвердить или опровергнуть мифы о предпочтениях жанров в каждом городе.
-4. **Методология:**
-    -	Получение данных о прослушиваниях пользователей Яндекс Музыки в обоих городах.
-    -	Анализ активности: Сравнение общей активности в разные дни недели.
-    -	Анализ жанров: Исследование предпочтений пользователей по жанрам музыки.
-    -	Визуализация результатов для наглядного сравнения.
-**Ожидаемые результаты:**
-Выявление различий в активности пользователей и предпочтениях музыкальных жанров между Москвой и Петербургом. Проверка мифов и стереотипов на основе фактических данных.
-5. **Инструменты:**
-    Python, Pandas, NumPy, Matplotlib, Seaborn.
-6. **Вклад:**
-    Этот проект позволит лучше понять поведение пользователей Яндекс Музыки в Москве и Петербурге и сделать более обоснованные выводы о различиях между двумя городами.
+
+
+
+<h3 align="center">Проект "Исследование надёжности заёмщиков"</h3>
+1. **Описание:**
+Данный проект был выполнен для кредитного отдела банка с целью изучения влияния семейного положения и количества детей клиента на своевременное погашение кредита. В проекте использовались данные, предоставленные банком, включающие статистику платежеспособности клиентов. Полученные результаты будут использованы для разработки модели кредитного скоринга, что поможет принимать более обоснованные решения о выдаче кредитов.
+
+2. **Задачи проекта:**
+- Предварительная обработка данных, включая обработку пропущенных значений и дубликатов.
+- Анализ данных для выявления влияния семейного положения и количества детей на факт погашения кредита в срок.
+- Определение статистически значимых различий в погашении кредита между разными категориями семейного положения и количеством детей.
+- Формулировка общих выводов и рекомендаций на основе проведенного анализа.
+3. **Используемые инструменты:
+- Язык программирования: Python.
+- Библиотеки для анализа данных: Pandas, NumPy.
+- Статистический анализ: SciPy, StatsModels.
+- Визуализация данных: Matplotlib, Seaborn.
+4. **Ожидаемые результаты:**
+- Определение связи между семейным положением, количеством детей и фактом погашения кредита в срок.
+- Выявление значимых факторов, влияющих на платежеспособность клиентов банка.
+- Полученные результаты будут использованы для построения модели кредитного скоринга и принятия более надежных решений о выдаче кредитов.
+
+
+Project "Borrower Reliability Study"
+Description:
+This project was conducted for the credit department of a bank to investigate the impact of a client's marital status and number of children on their timely loan repayment. The project utilizes data provided by the bank, which includes statistics on client creditworthiness. The research findings will be used in the development of a credit scoring model, aiding in making more informed decisions regarding loan approvals.
+
+Project Tasks:
+Data preprocessing, including handling missing values and duplicates.
+Data analysis to examine the relationship between marital status, number of children, and loan repayment behavior.
+Identification of statistically significant differences in loan repayment across different categories of marital status and number of children.
+Formulation of general conclusions and recommendations based on the analysis.
+Tools Used:
+Programming Language: Python.
+Data Analysis Libraries: Pandas, NumPy.
+Statistical Analysis: SciPy, StatsModels.
+Data Visualization: Matplotlib, Seaborn.
+Expected Results:
+Determination of the relationship between marital status, number of children, and loan repayment behavior.
+Identification of significant factors influencing client creditworthiness.
+The obtained results will be utilized in building a credit scoring model to make more reliable loan approval decisions.
