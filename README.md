@@ -1,4 +1,4 @@
-<h3 align="center">Проект "Исследование российского кинопроката</h3>
+<h3 align="center">Проект: "Исследование российского кинопроката</h3>
 
 **Описание проекта:**
 
@@ -36,7 +36,7 @@
     - В прокате преобладают фильмы из США, России, Франции, Великобритании и СССР.
     - Фильмы из США, России, Великобритании, Франции и КНР имеют высокие кассовые сборы.
 
-<h3 align="center">Project "Research on the Russian Film Distribution Market"</h3>
+<h3 align="center">Project :"Research on the Russian Film Distribution Market"</h3>
 
 
 **Project Description:**
