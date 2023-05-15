@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
+I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
 
 :telescope: I’m study as a Data Analyst and Java Developer  for analyze big data and create web applications on spring
 
