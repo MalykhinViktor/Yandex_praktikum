@@ -14,7 +14,7 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="40px"/>
 </h1>
 
 <h2>
@@ -54,7 +54,7 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
 </div>
 
 ### My project:
- **You can get acquainted with them in various branches of this repository
+ 
   - first project 🎵 Yandex Music
   - second project 🏦  Investigation of the reliability of borrowers
   - third project 🏠 Yandex Real Estate
@@ -62,3 +62,8 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
   - fifth project 🥩 The market of public catering establishments in Moscow
   - sixth project 📱 NPS of mobile app users
   - seventh project 📈 TED Conference Research
+
+<h3>
+  You can get acquainted with them in various branches of this repository
+  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30px"/>
+</h3>
