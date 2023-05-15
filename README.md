@@ -53,7 +53,8 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### My project
+### My project:
+ **You can get acquainted with them in various branches of this repository
   - first project 🎵 Yandex Music
   - second project 🏦  Investigation of the reliability of borrowers
   - third project 🏠 Yandex Real Estate
