@@ -29,3 +29,7 @@
   Идентификация наиболее и наименее лояльных групп пользователей.
   Расчет общего NPS среди всех опрошенных клиентов.
   Описательный анализ характеристик клиентов-сторонников.
+<div class="alert alert-info">
+<b>Ссылка на презинтацию:</b>
+<br>[Выполнено](https://public.tableau.com/views/MainProject_2_16837015282520/sheet20?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+</div>
