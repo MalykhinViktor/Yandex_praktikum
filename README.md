@@ -28,9 +28,7 @@
 ### :man_technologist: About Me :
 
 I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
-
-:telescope: I’m study as a Data Analyst and Java Developer  for analyze big data and create web applications on spring
-
+- 🏴󠁧
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I read tech articles and Surf 🏄.
@@ -55,13 +53,13 @@ I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.
 
 ### My projects:
 
-  - first project 🎵 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/first-project" target="_blank">Yandex Music</a>
-  - second project 🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/second-project" target="_blank">Investigation of the reliability of borrowers</a>
-  - third project 🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/third-project" target="_blank">Yandex Real Estate</a>
-  - fourth project 🎦 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/fourth-project" target="_blank"> Research of the Russian film distribution</a>
+  -  🎵 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/first-project" target="_blank">Yandex Music</a>
+  -  🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/second-project" target="_blank">Investigation of the reliability of borrowers</a>
+  - 🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/third-project" target="_blank">Yandex Real Estate</a>
+  - 🎦 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/fourth-project" target="_blank"> Research of the Russian film distribution</a>
   - fifth project 🥩 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/fifth-project" target="_blank">The market of public catering establishments in Moscow</a>
-  - sixth project 📱 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/sixth-project" target="_blank"> NPS of mobile app users</a>
-  - seventh project 📈 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/seventh-project" target="_blank"> TED Conference Research </a>
+  -  📱 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/sixth-project" target="_blank"> NPS of mobile app users</a>
+  -  📈 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/seventh-project" target="_blank"> TED Conference Research </a>
 
 <h3>
   You can get acquainted with them in various branches of this repository
