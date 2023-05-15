@@ -32,4 +32,6 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [!vic.malykhin@yandex.ru](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](vic.malykhin@yandex.ru)
+
+
