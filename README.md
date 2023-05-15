@@ -1,1 +1,31 @@
-<div class='tableauPlaceholder' id='viz1684117962039' style='position: relative'><noscript><a href='#'><img alt='История  TED-выступлений  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_16825773667860&#47;TED-&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='_16825773667860&#47;TED-' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_16825773667860&#47;TED-&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1684117962039');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1024px';vizElement.style.height='795px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<h3 align="center">Проект: "Исследование надёжности заёмщиков"</h3>
+
+ **Описание:**
+ 
+  Цель данного проекта заключается в определении текущего уровня потребительской лояльности (Net Promoter Score, NPS) среди клиентов телекоммуникационной компании, которая оказывает свои услуги на территории всего СНГ, с фокусом на клиентах из России. NPS является важным показателем, отражающим степень удовлетворенности клиентов и их готовность рекомендовать компанию своим друзьям и знакомым.
+
+**Задачи проекта:**
+
+  Определить текущий уровень потребительской лояльности (NPS) среди клиентов телекоммуникационной компании из России.
+  Подготовить дашборд с результатами опроса и изменением уровня NPS в зависимости от пользовательских признаков.
+  Визуализировать распределение участников опроса по возрасту, полу и городам.
+  Определить наиболее и наименее лояльные группы пользователей.
+  Рассчитать общий NPS среди всех опрошенных.
+  Описать характеристики клиентов, которые относятся к группе сторонников (promoters).
+  
+**Используемые инструменты:**
+
+  Язык программирования: Python.
+  Библиотеки для анализа данных: Pandas
+  SQL
+  Визуализация данных: Tabletau
+  
+**Ожидаемые результаты:**
+
+  Определение текущего уровня NPS среди клиентов телекоммуникационной компании из России.
+  Анализ распределения участников опроса по возрасту, полу и городу.
+  Исследование динамики NPS в зависимости от пользовательских признаков.
+  Идентификация наиболее и наименее лояльных групп пользователей.
+  Расчет общего NPS среди всех опрошенных клиентов.
+  Описательный анализ характеристик клиентов-сторонников.
