@@ -30,8 +30,9 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles and Surf 🏄.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](vic.malykhin@yandex.ru)
+- :mailbox:How to reach me: (vic.malykhin@yandex.ru)
 
+### :hammer_and_wrench: Languages and Tools :
 
