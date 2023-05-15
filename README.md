@@ -31,5 +31,37 @@
   Описательный анализ характеристик клиентов-сторонников.
 <div class="alert alert-info">
 <b>Ссылка на презинтацию:</b>
-<br>[(https://public.tableau.com/views/MainProject_2_16837015282520/sheet20?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)].
+<br>  (https://public.tableau.com/views/MainProject_2_16837015282520/sheet20?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+</div>
+
+<h3 align="center">Project: "TED Conference Research"</h3>
+Description:
+
+The aim of this project is to determine the current level of consumer loyalty (Net Promoter Score, NPS) among customers of a telecommunications company that provides services across the CIS region, with a focus on customers from Russia. NPS is an important metric that reflects the level of customer satisfaction and their willingness to recommend the company to their friends and acquaintances.
+
+Project Objectives:
+
+Determine the current level of consumer loyalty (NPS) among customers of the telecommunications company from Russia.
+Prepare a dashboard with the survey results and the variation of NPS based on user attributes.
+Visualize the distribution of survey participants by age, gender, and cities.
+Identify the most and least loyal customer groups.
+Calculate the overall NPS among all survey respondents.
+Describe the characteristics of customers who belong to the promoter group.
+Tools Used:
+
+Programming Language: Python.
+Data Analysis Libraries: Pandas.
+SQL.
+Data Visualization: Tableau.
+Expected Results:
+
+Determination of the current NPS level among customers of the telecommunications company from Russia.
+Analysis of the distribution of survey participants by age, gender, and cities.
+Investigation of NPS dynamics based on user attributes.
+Identification of the most and least loyal customer groups.
+Calculation of the overall NPS among all survey respondents.
+Descriptive analysis of the characteristics of promoter customers.
+<div class="alert alert-info">
+<b>Link to Presentation:</b>
+<br>  (https://public.tableau.com/views/MainProject_2_16837015282520/sheet20?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 </div>
