@@ -5,3 +5,4 @@
   </a>
 </div>
 https://komarev.com/ghpvc/?MalykhinViktor
+<img src="https://komarev.com/ghpvc/?username=MalykhinViktor&style=flat-square&color=blue" alt=""/>
