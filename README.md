@@ -14,7 +14,7 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="50px"/>
 </h1>
 
 <h2>
@@ -65,5 +65,5 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
 
 <h3>
   You can get acquainted with them in various branches of this repository
-  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 </h3>
