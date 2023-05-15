@@ -14,10 +14,10 @@
 
 <h1>
   hey there
-  my name Viktor Malykhin
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+**My name is Viktor Malykhin.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
@@ -52,3 +52,10 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
 </div>
 
 ### My project
+  - first project 🎵 Yandex Music
+  - second project 🏦  Investigation of the reliability of borrowers
+  - third project 🏠 Yandex Real Estate
+  - fourth project 🎦 Research of the Russian film distribution
+  - fifth project 🥩 The market of public catering establishments in Moscow
+  - sixth project 📱 NPS of mobile app users
+  - seventh project 📈 TED Conference Research
