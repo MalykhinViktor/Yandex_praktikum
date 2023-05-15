@@ -54,8 +54,8 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
 </div>
 
 ### My project:
-  - :mailbox:How to reach me: (https://github.com/MalykhinViktor/Yandex_praktikum/edit/first-project/README.md))
-  - first project 🎵 Yandex Music
+
+  - first project 🎵 Yandex Music:  (https://github.com/MalykhinViktor/Yandex_praktikum/edit/first-project))
   - second project 🏦  Investigation of the reliability of borrowers
   - third project 🏠 Yandex Real Estate
   - fourth project 🎦 Research of the Russian film distribution
