@@ -25,3 +25,11 @@
 ### :man_technologist: About Me :
 
 I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
+
+:telescope: I’m study as a Data Analyst and Java Developer  for analyze big data and create web applications on spring
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [!vic.malykhin@yandex.ru](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
