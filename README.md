@@ -28,7 +28,7 @@
 ### :man_technologist: About Me :
 
 I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
-- 🏴󠁧
+- 🏴󠁧󠁢󠁥󠁮 Foreign language proficiency - English b1, native Russian
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I read tech articles and Surf 🏄.
@@ -65,3 +65,8 @@ I'm a passionate Junior Data Analyst and Java Developer <img src="https://media.
   You can get acquainted with them in various branches of this repository
   <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 </h3>
+
+### Courses
+-  🧑‍💻<a href="https://github.com/JavaRush" target="_blank">JavaRush</a> 
+-  🛢<a href="https://practicum.yandex.ru/" target="_blank">Yandex_Practicum</a> 
+-  👨‍💼 IT Product Management, Suvorov IT
