@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIzYTkzNDc5OTIwZjMyNjE0ZTVjNDNmMTJjYmQ2YWJkMzJiMmI5NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/wWLr7TloC1NLOqRbac/giphy-downsized-large.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
