@@ -59,7 +59,7 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
   - second project 🏦  Investigation of the reliability of borrowers
   - third project 🏠 Yandex Real Estate
   - fourth project 🎦 Research of the Russian film distribution
-  - fifth project 🥩 The market of public catering establishments in Moscow
+  - fifth project 🥩 The market of public catering establishments in Moscow https://github.com/MalykhinViktor/Yandex_praktikum.git
   - sixth project 📱 NPS of mobile app users
   - seventh project 📈 TED Conference Research
 
