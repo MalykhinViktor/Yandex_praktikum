@@ -1,5 +1,5 @@
 
-<h3 align="center">Проект: "Исследование конференций TED"</h3>
+<h3 align="center">Проект:  NPS полльзователей мобильного приложения ""</h3>
 
 **Описание:**
 
@@ -34,7 +34,7 @@
 <br>  (https://public.tableau.com/views/MainProject_2_16837015282520/sheet20?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 </div>
 
-<h3 align="center">Project: "TED Conference Research"</h3>
+<h3 align="center">Project: "NPS of mobile app users"</h3>
 Description:
 
 The aim of this project is to determine the current level of consumer loyalty (Net Promoter Score, NPS) among customers of a telecommunications company that provides services across the CIS region, with a focus on customers from Russia. NPS is an important metric that reflects the level of customer satisfaction and their willingness to recommend the company to their friends and acquaintances.
