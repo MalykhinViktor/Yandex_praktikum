@@ -35,4 +35,4 @@ I am a Data Analyst and Java Developer <img src="https://media.giphy.com/media/W
 - :mailbox:How to reach me: (vic.malykhin@yandex.ru)
 
 ### :hammer_and_wrench: Languages and Tools :
-
+icons/anaconda/anaconda-original-wordmark.svg
