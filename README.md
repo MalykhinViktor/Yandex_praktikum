@@ -43,10 +43,6 @@
   -  📈 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/seventh-project" target="_blank"> TED Conference Research </a>
 
 
-**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)**
-
-
-
-  <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
+**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 
 
