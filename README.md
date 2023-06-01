@@ -30,18 +30,8 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div> 
 
-        
-
-
-### :man_technologist: About Me :
-
-I am glad to present to you my data analytics projects
-
-
-
-
-
-### My projects:
+ 
+### I am glad to present to you my data analytics projects:
 
   -  🎵 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/first-project" target="_blank">Yandex Music</a>
   -  🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/second-project" target="_blank">Investigation of the reliability of borrowers</a>
