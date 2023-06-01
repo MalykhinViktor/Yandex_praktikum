@@ -31,6 +31,7 @@
 </div> 
 
  
+
 ### I am glad to present to you my data analytics projects:
 
   -  🎵 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/first-project" target="_blank">Yandex Music</a>
@@ -41,30 +42,11 @@
   -  📱 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/sixth-project" target="_blank"> NPS of mobile app users</a>
   -  📈 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/seventh-project" target="_blank"> TED Conference Research </a>
 
-- :mailbox:How to reach me: (vic.malykhin@yandex.ru)
 
-### :hammer_and_wrench: Languages and Tools :
+**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)**
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
-<h3>
-  You can get acquainted with them in various branches of this repository
+
   <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
-</h3>
 
-### Courses
--  🧑‍💻<a href="https://github.com/JavaRush" target="_blank">JavaRush</a> 
--  🛢<a href="https://practicum.yandex.ru/" target="_blank">Yandex_Practicum</a> 
--  👨‍💼 IT Product Management, Suvorov IT
+
