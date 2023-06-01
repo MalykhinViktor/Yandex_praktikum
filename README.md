@@ -14,7 +14,7 @@
 
 
 <h1>
-  hey there
+ Hello to everyone who decided to look at my data analytics repository.
   <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="50px"/>
 </h1>
 
