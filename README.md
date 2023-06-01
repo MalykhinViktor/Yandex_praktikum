@@ -35,13 +35,9 @@
 
 ### :man_technologist: About Me :
 
-I'm a passionate Junior Data Analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
-- 🏴󠁧󠁢󠁥󠁮 Foreign language proficiency - English b1, native Russian
-- :seedling: Exploring Technical Content Writing.
+I am glad to present to you my data analytics projects
 
-- :zap: In my free time, I read tech articles and Surf 🏄.
 
-- :mailbox:How to reach me: (vic.malykhin@yandex.ru)
 
 
 
@@ -55,6 +51,7 @@ I'm a passionate Junior Data Analyst  <img src="https://media.giphy.com/media/WU
   -  📱 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/sixth-project" target="_blank"> NPS of mobile app users</a>
   -  📈 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/seventh-project" target="_blank"> TED Conference Research </a>
 
+- :mailbox:How to reach me: (vic.malykhin@yandex.ru)
 
 ### :hammer_and_wrench: Languages and Tools :
 
