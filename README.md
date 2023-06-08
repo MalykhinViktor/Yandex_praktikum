@@ -28,6 +28,9 @@
 <br>  (https://public.tableau.com/views/_16825773667860/TED-?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 </div>
 
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Вернуться к проектам</a>
+
 <h3 align="center">Project: "TED Conference Research"</h3>
 
 **Description:**
@@ -59,3 +62,5 @@ The "TED Conference Research" project aims to explore and analyze the popular TE
 <b>Link to the presentation:</b>
 <br> (https://public.tableau.com/views/_16825773667860/TED-?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 </div>
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Go back to projects</a>
