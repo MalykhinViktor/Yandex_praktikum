@@ -22,7 +22,7 @@
     Этот проект позволит лучше понять поведение пользователей Яндекс Музыки в Москве и Петербурге и сделать более обоснованные выводы о различиях между двумя городами.
 
 
-🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">go back to projects</a>
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Вернуться к проектам</a>
 
 <h3 align="center"> Project "Comparison of Yandex Music Users in Moscow and St. Petersburg" </h3>
 
@@ -52,3 +52,5 @@ The project aims to analyze the behavior of Yandex Music users in Moscow and St.
 6. **Contribution:**
 
 - This project will provide a better understanding of Yandex Music user behavior in Moscow and St. Petersburg, leading to informed conclusions about the differences between the two cities.
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">go back to projects</a>
