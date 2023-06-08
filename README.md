@@ -29,6 +29,10 @@
 5. **Инструменты:**
     Python, Pandas, NumPy, Matplotlib, Seaborn.
   
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Вернуться к проектам</a>
+
+
 <h3 align="center">  Project: Real Estate Market Analysis </h3>
 
 **Project Description:**
@@ -64,4 +68,6 @@
     - Analysis of the relationship between price and distance to the city center.
 **Tools:**
 Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Go back to projects</a>
 
