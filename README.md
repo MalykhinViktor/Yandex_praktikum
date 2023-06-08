@@ -46,6 +46,9 @@
     В Центральном административном округе и Западном административном округе есть больше круглосуточных кофеен.
     Цены на чашку кофе различаются в зависимости от района Москвы.
 
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Вернуться к проектам</a>
+
 <h3 align="center">Project: "Moscow Public Catering Market Analysis"</h3>
 **Project Description:**
 
@@ -97,3 +100,5 @@ Coffee prices vary depending on the district in Moscow.
 
 
     
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Go back to projects</a>
