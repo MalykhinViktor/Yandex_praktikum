@@ -34,6 +34,9 @@
 <br>  (https://public.tableau.com/views/MainProject_2_16837015282520/sheet20?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 </div>
 
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Вернуться к проектам</a>
+
 <h3 align="center">Project: "NPS of mobile app users"</h3>
 Description:
 
@@ -65,3 +68,6 @@ Descriptive analysis of the characteristics of promoter customers.
 <b>Link to Presentation:</b>
 <br>  (https://public.tableau.com/views/MainProject_2_16837015282520/sheet20?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 </div>
+
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Go back to project</a>
