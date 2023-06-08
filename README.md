@@ -36,6 +36,9 @@
     - В прокате преобладают фильмы из США, России, Франции, Великобритании и СССР.
     - Фильмы из США, России, Великобритании, Франции и КНР имеют высокие кассовые сборы.
 
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Вернуться к проектам</a>
+
+
 <h3 align="center">Project :"Research on the Russian Film Distribution Market"</h3>
 
 
@@ -75,3 +78,5 @@ Python, Pandas, NumPy, Matplotlib, Seaborn.
     - The distribution market is dominated by films from the USA, Russia, France, the UK, and the USSR.
     - Films from the USA, Russia, the UK, France, and China have high box office revenues.
     
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Go back to projects</a>
