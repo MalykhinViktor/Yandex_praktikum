@@ -42,6 +42,7 @@ https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif
   -  📱 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/sixth-project" target="_blank"> NPS of mobile app users</a>
   -  📈 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/seventh-project" target="_blank"> TED Conference Research </a>
   - 🎓 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/eighth-project" target="_blank"> Marketing Analysis - Procrastinate Pro+ </a>
+- 🛴 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/tenth-project" target="_blank"> Analysis of GoFast Scooter Rental Service </a>
     
 **- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 
