@@ -15,7 +15,7 @@
 
 <h1>
  Hello to everyone who decided to look at my real data analytics repository.
-  <img src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa" width="50px"/>
+  <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="50px"/>
 </h1>
 
 https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif
