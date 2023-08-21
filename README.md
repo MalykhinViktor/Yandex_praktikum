@@ -1,51 +1,44 @@
+<h3 align="center">Проект: Анализ сервиса аренды самокатов GoFast"</h3>
+
+ **Описание проекта**
+Данный проект посвящен анализу данных использования сервиса аренды электро-самокатов GoFast. Цель - выявить характеристики пользователей, их поведение и влияние подписки на активность.
+
+**Этапы:**
+1. **Предобработка данных.**
+2. **Исследовательский анализ:** города, подписки, возраст, длина и продолжительность поездок.
+3. **Объединение данных.**
+4. **Расчет выручки.**
+5. **Проверка гипотез:** использование подписки, длина поездок, выручка и техподдержка.
+6. **Выводы и анализ ключевых характеристик поездок и пользователе**
+Проанализировано поведение пользователей GoFast. Выявлены популярные города, предпочтения подписчиков, особенности поездок и выручка.
+7. **Результаты**
+Получен полный обзор использования сервиса, выделены ключевые тренды и разработаны выводы для оптимизации предложения и повышения удовлетворенности пользователей.
+
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Назад к проектам!</a>
+:office:  <a href="https://github.com/MalykhinViktor" target="_blank">Назад к профилю!</a>
+
+<h3 align="center">Project: Analysis of GoFast Scooter Rental Service</h3>
+**Project Description**
+This project is dedicated to the analysis of data from the usage of the GoFast electric scooter rental service. The goal is to uncover user characteristics, their behavior, and the impact of subscriptions on their activity.
+
+**Stages:**
+
+1. **Data Preprocessing.**
+2. **Exploratory Analysis:** cities, subscriptions, age, trip length, and duration.
+3. **Data Integration.**
+4. **Revenue Calculation.**
+5. **Hypothesis Testing:** subscription usage, trip length, revenue, and customer support.
+6. **Conclusions and Analysis of Key Trip and User Characteristics**
+The behavior of GoFast users has been analyzed. Popular cities, subscriber preferences, trip peculiarities, and revenue have been identified.
+7. **Results**
+A comprehensive overview of service usage has been obtained. Key trends have been identified, and conclusions have been drawn to optimize the offering and enhance user satisfaction.
 
 
-  </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-</div>
-
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=MalykhinViktor&style=flat-square&color=blue" alt=""/>
 
 
-<h1>
- Hello to everyone who decided to look at my real data analytics repository.
-  <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="50px"/>
-</h1>
 
-https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif
-<h2>
-  My name is Viktor Malykhin
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   <a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
-</div> 
-
- 
-
-### I am glad to present to you my data analytics projects:
-
-  -  🎵 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/first-project" target="_blank">Yandex Music</a>
-  -  🏦  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/second-project" target="_blank">Investigation of the reliability of borrowers</a>
-  - 🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/third-project" target="_blank">Yandex Real Estate</a>
-  - 🎦 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/fourth-project" target="_blank"> Research of the Russian film distribution</a>
-  - 🥩 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/fifth-project" target="_blank">The market of public catering establishments in Moscow</a>
-  -  📱 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/sixth-project" target="_blank"> NPS of mobile app users</a>
-  -  📈 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/seventh-project" target="_blank"> TED Conference Research </a>
-  - 🎓 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/eighth-project" target="_blank"> Marketing Analysis - Procrastinate Pro+ </a>
-    
-**- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
-
-
+🏠  <a href="https://github.com/MalykhinViktor/Yandex_praktikum" target="_blank">Go back to projects</a>
 :office:  <a href="https://github.com/MalykhinViktor" target="_blank"> Go back to the main profile!</a>
+
 
 
