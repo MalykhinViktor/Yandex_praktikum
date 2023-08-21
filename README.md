@@ -14,11 +14,11 @@
 
 
 <h1>
- Hello to everyone who decided to look at my data analytics repository.
-  <img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="50px"/>
+ Hello to everyone who decided to look at my real data analytics repository.
+  <img src="<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>" width="50px"/>
 </h1>
 
-
+https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif
 <h2>
   My name is Viktor Malykhin
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -27,7 +27,7 @@
   </a> 
 </h2>
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif](https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif)" width="600" height="300"/>
 </div> 
 
  
