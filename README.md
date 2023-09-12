@@ -17,7 +17,7 @@
  Hello to everyone who decided to look at my real data analytics repository.
   <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="50px"/>
 </h1>
-<img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="50px"/>
+<img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="250px"/>
 
 <h2>
   My name is Viktor Malykhin
