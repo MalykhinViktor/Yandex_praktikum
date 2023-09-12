@@ -43,7 +43,7 @@
   -  📈 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/seventh-project" target="_blank"> TED Conference Research </a>
   - 🎓 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/eighth-project" target="_blank"> Marketing Analysis - Procrastinate Pro+ </a>
   - 🛴 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/tree/tenth-project" target="_blank"> Analysis of GoFast Scooter Rental Service </a>
-  - 📊 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/blob/eleventh_branch/README.md" target="_blank"> A\B test</a>
+  - 📊 <a href="https://github.com/MalykhinViktor/Yandex_praktikum/blob/eleventh_branch" target="_blank"> A\B test</a>
 
 **- :mailbox:How to reach me: (vic.malykhin@yandex.ru)** <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="60px"/>
 
