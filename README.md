@@ -22,10 +22,11 @@
 <h2>
   My name is Viktor Malykhin
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   <a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
+   
+</h2>
+<a href="https://www.linkedin.com/in/виктор-малыхин-76a066279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div> 
